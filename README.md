@@ -35,7 +35,7 @@ print(predictedCO2)
 
 ### Insert your output
 
-<img width="1842" height="513" alt="image" src="https://github.com/user-attachments/assets/680ca758-53f5-4e49-9060-201b1689e2d9" />
+<img width="1226" height="594" alt="image" src="https://github.com/user-attachments/assets/9cfd1e09-b183-4a97-bcfa-6fa817317bf8" />
 
 
 ## Result
